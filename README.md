@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi I’m Cristian and currently I’m working on my readme..
+
 <!--
 **CristianVelasco/CristianVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
