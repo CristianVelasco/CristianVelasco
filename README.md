@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-Hi I’m Cristian and currently I’m working on my readme..
+## My name is Cristian Velasco
 
+### I’m a physics student at Universidad de Antioquia. I’m currently studying to be a Data science and a Backend developer
+
+### Langaujes and Tools
+
+
+## currently I’m working in my profile Readme
 <!--
 **CristianVelasco/CristianVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
