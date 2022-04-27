@@ -2,7 +2,7 @@
 
 ## My name is Cristian Velasco
 
-### I’m a physics student at Universidad de Antioquia. I’m currently studying to be a Data science and a Backend developer
+#### I’m a physics student at Universidad de Antioquia. I’m currently studying to be a Data science and a Backend developer
 
 ### Langaujes and Tools
 
