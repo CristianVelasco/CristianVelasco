@@ -4,6 +4,7 @@
 
 #### I’m a physics student at Universidad de Antioquia. I’m studying to be a Data science and a Backend developer
 
+- 🦉 I'm always trying to learn something new
 - 🔭  I’m working on FastAPI, Nodejs, PostgreSQL,TensorFlow
 - 📝  Checkout my [Resume](https://drive.google.com/drive/u/0/folders/16_zBii05k3znDoNpKUsvyRiMsaR-6xPf)
 - 📚  Checkout my [Certificates](https://drive.google.com/drive/u/0/folders/1nVcmm65BPX3IRlWlxkPbZi6njZmRyiPG)
